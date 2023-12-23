@@ -10,4 +10,9 @@ opt.termguicolors = true
 opt.background = "dark"
 opt.signcolumn = "yes"
 
+opt.swapfile = false
+opt.backup = false
+opt.undodir = os.getenv("HOME") .. "/.vim/undodir"
+opt.undofile = true
+
 vim.cmd("syntax off")
