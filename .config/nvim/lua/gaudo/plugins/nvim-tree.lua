@@ -10,7 +10,11 @@ return {
 		vim.opt.termguicolors = true
 
 		-- empty setup using defaults
-		require("nvim-tree").setup()
+		require("nvim-tree").setup({
+			view = {
+				relativenumber = true}
+			}
+		)
 
 		local keymap = vim.keymap -- for conciseness
 
