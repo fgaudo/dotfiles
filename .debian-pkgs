@@ -1,0 +1,15 @@
+build-essential                                                                                                                                                                                              
+chromium                                                                                                                                                                                                     
+console-setup                                                                                                                                                                                                
+curl                                                                                                                                                                                                         
+dconf-editor                                                                                                                                                                                                 
+git                                                                                                                                                                                                          
+i3                                                                                                                                                                                                           
+initramfs-tools                                                                                                                                                                                              
+kitty                                                                                                                                                                                                        
+lightdm                                                                                                                                                                                                      
+mate-desktop-environment-core                                                                                                                                                                                
+net-tools                                                                                                                                                                                                    
+network-manager-gnome                                                                                                                                                                                        
+unzip                                                                                                                                                                                                        
+xclip
