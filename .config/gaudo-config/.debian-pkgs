@@ -9,7 +9,6 @@ initramfs-tools
 kitty                                                                                                                                                                                                        
 lightdm                                                                                                                                                                                                      
 mate-desktop-environment-core                                                                                                                                                                                
-net-tools                                                                                                                                                                                                    
-network-manager-gnome                                                                                                                                                                                        
+net-tools                                                                                                                                                                                                                                                                                                                                                                                            
 unzip                                                                                                                                                                                                        
 xclip
