@@ -17,6 +17,11 @@ return {
 			shfmt = {
 				prepend_args = { "-i", "2" },
 			},
+			prettierd = {
+				env = {
+					PRETTIERD_LOCAL_PRETTIER_ONLY = "1",
+				},
+			},
 		},
 	},
 	init = function()
