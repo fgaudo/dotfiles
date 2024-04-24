@@ -10,6 +10,7 @@ return {
 			typescriptreact = { { "prettierd", "prettier" } },
 			css = { { "prettierd", "prettier" } },
 			html = { { "prettierd", "prettier" } },
+			markdown = { "markdownlint" },
 		},
 		-- Set up format-on-save
 		format_on_save = { timeout_ms = 10000, lsp_fallback = true },
